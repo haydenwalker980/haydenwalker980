@@ -3,9 +3,8 @@
 <h1 align="center">Winfinity (haydenwalker980)</h1>
 I'm Winfinity, someone who has way too much free time. 
 
-# about outerorbit:
-no, i don't have any relation to subrocks, i was just forking one of bhief's repos because...i wanted something to do?  
-also, why are you even shaming me for having any relation to bhief?
+# faq
+coming soon, itll be on a seperate website
 
 ## stacks
 main computer: windows 11 (i hate it)  
