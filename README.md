@@ -13,7 +13,7 @@ Servers: They vary, but I host them all on Linode traditionally
 frameworks: PHP primarily
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,pr,php,mysql,linux,ae,azure,ps,bash,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,pr,php,mysql,linux,ae,azure,ps,bash,bootstrap,ruby,rails,laravel,mongodb)](https://skillicons.dev)
 
 </p>
 
