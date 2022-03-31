@@ -3,8 +3,9 @@
 <h1 align="center">Winfinity (haydenwalker980)</h1>
 I'm Winfinity, someone who has way too much free time. 
 
-# FAQ
-coming soon, itll be on a seperate website
+# What I'm Working On
+[**Bonfire**](https://sorcery.i.windevstudios.com/BonfireTeam/Bonfire), a Discord alternative written in Laravel.  
+**Sorcery**, a GitHub clone that won't nickel and dime you for everything you own just to have the luxury of self hosting. Made by a small business owner who thought their GHES quote was fucking ridiculous. TBL, it's still in early development stages. 
 
 ## Stacks
 main computer: Linux Mint  
