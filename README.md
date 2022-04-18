@@ -4,7 +4,7 @@
 I'm Winfinity, someone who has way too much free time. 
 
 # What I'm Working On
-[**Bonfire**](https://sorcery.i.windevstudios.com/BonfireTeam/Bonfire), a Discord alternative written in Laravel.  
+[**Bonfire**](https://github.com/BonfireProject/app), a Discord alternative written in Laravel.  
 **Sorcery**, a GitHub clone that won't nickel and dime you for everything you own just to have the luxury of self hosting. Made by a small business owner who thought their GHES quote was fucking ridiculous. TBL, it's still in early development stages. 
 
 ## Stacks
