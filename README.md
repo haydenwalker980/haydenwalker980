@@ -8,8 +8,8 @@ I'm Winfinity, someone who has way too much free time.
 
 ## Stacks
 main computer: Linux Mint  
-Servers: They vary, but I host them all on Linode traditionally  
-frameworks: PHP primarily
+Hosting: Windev Registry, Neocities, Oracle Cloud Infrastructure
+Frameworks: Ruby, Rails
 ## Right Now
 ![discord stats from c99.nl](https://discord.c99.nl/widget/theme-2/393971637642461185.png)
 ## Skills
