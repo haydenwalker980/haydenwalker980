@@ -13,7 +13,7 @@ Frameworks: Ruby, Rails
 ## Right Now
 ![discord stats from c99.nl](https://discord.c99.nl/widget/theme-2/393971637642461185.png)
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,pr,php,mysql,linux,ae,azure,ps,bash,bootstrap,ruby,rails,laravel,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,linux,bash,bootstrap,ruby,rails,mongodb,python)](https://skillicons.dev)
 
 </p>
 
